@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSELearning/JavaSELearning.iml" filepath="$PROJECT_DIR$/JavaSELearning/JavaSELearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/classic_problems.iml" filepath="$PROJECT_DIR$/classic_problems.iml" />
     </modules>
   </component>
